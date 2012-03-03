@@ -1,0 +1,11 @@
+DOTFILES for various programs/tools are located here for purposes of sharing with others.
+
+DISCLAIMER: Use these files at your own risk.  I'm not a software person, just a Mechanical Engineer
+with an interest in computers.  I typically fly by the seat of my pants and figure things out as
+they break.  That being said, MOST files on here should work without problems.  I try to comment my
+files liberally, but make sure you update any host-specific paths and understand the code before
+attempting to use these files.
+
+Thanks, and enjoy!
+
+-Paul
